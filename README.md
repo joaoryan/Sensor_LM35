@@ -1,0 +1,2 @@
+# Sensor_LM35
+O sensor de temperatura LM35 DZ é um sensor de alta precisão e sensibilidade, que  permite mensurar temperaturas entre 0 e 100ºC, com precisão de 0,5ºC. Apresenta uma  tensão de saída linear de 10 mV/ºC [52]. Esse sensor possui um circuito integrado LM35DZ com tensão de alimentação entre 4 e 20VDC e corrente de operação inferior a 60 mV. Na  Figura 49, exibe-se o sensor LM35 DZ e identifica-se os pinos de alimentação (Vcc), saída  analógica e terra (GND).
